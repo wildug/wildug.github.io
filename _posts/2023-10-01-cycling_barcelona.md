@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-After two weeks exploring Barcelona, most of the time on a bike, I want to share my experience gathered in this busy and cosmopolitan city. First my incomplete knowledge around obtaining a bike is presented. The second point of this post is to show examples from the cycling infrastructure, mostly built in the last decade.
+After two weeks exploring Barcelona, most of the time on a bike, I want to share my experience gathered in this busy and cosmopolitan city. First my incomplete knowledge around obtaining a bike is presented. The second point of this post is to show examples of the cycling infrastructure, mostly built in the last decade.
 
 
 ### How to get a bike?
@@ -25,12 +25,12 @@ The hurdle is to obtain a Foreigner Identity Number (NIE) necessary for register
 This requires a trip to an administration office when you are lucky enough to get an appointment.
 
 
-For me personally I choose swapfiets as a renting service for 19€ a month. 
+For me personally I choose _swapfiets_ as a renting service for 19€ a month. 
 This was most of all a convenient but for certain not the cheapest options for a bike. 
-The gear shifting is not great but it has a nice luggage track on top of the front wheel allowing for a good view on my luggage while driving.
+The gear shifting is not great, but it has a nice luggage track on top of the front wheel allowing for a good view on my luggage while driving.
 
 
-{% include figure.html path="assets/img/swapfiets_bike.jpeg" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/swapfiets_bike.jpg" class="img-fluid rounded z-depth-1" %}
 
 
 
@@ -45,7 +45,7 @@ Even a [navigation service](https://airemetropolita.amb.cat/) exists to plan alt
 Barcelona also made the news with the announcement of constructing a [*big superblock*](https://www.barcelona.cat/infobarcelona/en/tema/urban-planning-and-infrastructures/turning-barcelona-into-a-big-superblock_1005852.html) in 2020.
 In late 2023 you can clearly see the ambitions of being a bicycle friendly city *almost* everywhere.
 The first thing I noticed were the physically separated bike paths.
-Unlike the Radschutzstreifen (seen on the left) as we call them in Germany, physical barriers convey a sense of security and increases the distance to motor traffic while cycling. 
+Unlike the Radschutzstreifen (seen on the left or first picture) as we call them in Germany, physical barriers convey a sense of security and increases the distance to motor traffic while cycling. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/radschutzstreifen" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -69,7 +69,7 @@ Sometimes bicycle paths also follow the one-way street culture in Barcelona as c
     </div>
 </div>
 
-Also the *avenida diagonal* one of the largest and busiest streets, running diagonal across the entire city and currently in construction, offers a nice bicycle path towards llobregat with pleasant surprises for commuters ([here](https://www.youtube.com/watch?v=z-blkJxyA60&t=1s) is a nice video about the avenida diagonal).
+The *avenida diagonal*, one of the largest and busiest streets, running diagonal across the entire city and currently in construction, offers a nice bicycle path towards llobregat with pleasant surprises for commuters ([here](https://www.youtube.com/watch?v=z-blkJxyA60&t=1s) is a nice video about the avenida diagonal).
 
 
 
@@ -81,5 +81,16 @@ Also the *avenida diagonal* one of the largest and busiest streets, running diag
         {% include figure.html path="assets/img/doggo.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+### Tips for cycling in Barcelona
+
+My flatmate noticed that biking during the evening or night is a more pleasant experience since the traffic has calmed down, and you are able to catch a few quiet moments to explore the peaceful city.
+
+Second during driving you should always get a sense about the directions of motor traffic. Especially at intersections the direction of surrounding one-way streets, helps you identify crossing traffic. While this sounds obvious, pedestrians use this simple manuoeuvre as well to cross a red light, leaving cyclist in the opposing direction unattended. 
+
+This leads to the third comment on traversing Barcelona by bike.
+Traffic rules are not viewed as strict laws, more as a kind of suggestion.
+Many cyclist and pedestrians cross red lights when it is possible. Motor scooter start at the traffic light from the moment the pedestrian's traffic light turn red, not when their respective traffic light turns green. Cars park on every free spot which is available. On the other side, drivers stop at zebra crossings and people do not get as angry as on german roads.
+
 
 Safe biking and have fun!

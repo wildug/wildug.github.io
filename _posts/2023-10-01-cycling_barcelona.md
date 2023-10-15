@@ -92,5 +92,22 @@ This leads to the third comment on traversing Barcelona by bike.
 Traffic rules are not viewed as strict laws, more as a kind of suggestion.
 Many cyclist and pedestrians cross red lights when it is possible. Motor scooter start at the traffic light from the moment the pedestrian's traffic light turn red, not when their respective traffic light turns green. Cars park on every free spot which is available. On the other side, drivers stop at zebra crossings and people do not get as angry as on german roads.
 
+Last but not least a few nice places to cycle along.
+First I would recommend Calle del Consejo de Ciento.
+It's a beautifully mixed usage street where bikes, pedestrian and service vehicles are allowed.
+It spans over a kilometer long, with great squares where you can take a seat and enjoy the city.
+When navigating anywhere, I always try to find and excuse to cycle along there.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/consejoDelCiento.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  Calle del Consejo de Ciento is easily recognizable on google maps in the traffic overlay (red and white striped). 
+</div>
+
+
+A second nice bike path is along the beach, one can cycle from the W-tower next to Barceloneta along the coast until Besòs with a nice view on the sea. Along the route is the quarter of Poblenou which is worth seeing as well. Poblenou's rambla offers great restaurants for an evening dinner with a more local flare than the old town of Barcelona.
 
 Safe biking and have fun!

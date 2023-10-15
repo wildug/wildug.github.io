@@ -86,11 +86,11 @@ The *avenida diagonal*, one of the largest and busiest streets, running diagonal
 
 My flatmate noticed that biking during the evening or night is a more pleasant experience since the traffic has calmed down, and you are able to catch a few quiet moments to explore the peaceful city.
 
-Second during driving you should always get a sense about the directions of motor traffic. Especially at intersections the direction of surrounding one-way streets, helps you identify crossing traffic. While this sounds obvious, pedestrians use this simple manuoeuvre as well to cross a red light, leaving cyclist in the opposing direction unattended. 
+Second during driving you should always get a sense about the directions of motor traffic. Especially at intersections, the direction of surrounding one-way streets helps you identify crossing traffic. While this sounds obvious, pedestrians use this simple manuoeuvre as well to cross a red light, leaving cyclist in the opposing direction unattended. 
 
 This leads to the third comment on traversing Barcelona by bike.
 Traffic rules are not viewed as strict laws, more as a kind of suggestion.
-Many cyclist and pedestrians cross red lights when it is possible. Motor scooter start at the traffic light from the moment the pedestrian's traffic light turn red, not when their respective traffic light turns green. Cars park on every free spot which is available. On the other side, drivers stop at zebra crossings and people do not get as angry as on german roads.
+Many cyclist and pedestrians cross red lights when it is possible. Motor scooter start at the traffic light in the moment the pedestrian's traffic light turns red, not when their respective traffic light turns green. Cars park on every free spot which is available. On the other side, drivers stop at zebra crossings and people do not get as angry as on german roads.
 
 Last but not least a few nice places to cycle along.
 First I would recommend Calle del Consejo de Ciento.

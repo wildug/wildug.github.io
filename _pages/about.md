@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hei Hei, my name is Alex and with this static website I want to share my personal [blog](/blog/) about cycling, science and my Erasmus experience in Barcelona aswell as some coding [projects](/projects/) I enjoy working on.
+Hei Hei, my name is Alex and with this static website I want to share my personal [blog](/blog/) about cycling, science and my Erasmus experience in Barcelona as well as some coding [projects](/projects/) I enjoy working on.
 During the day, I am a student of Cognitive Science and Machine Learning in Tübingen.
 
-What about the name of this page? `ẃildug` is an anagram of my lastname. 
+What about the name of this page? `wildug` is an anagram of my last name. 
 
